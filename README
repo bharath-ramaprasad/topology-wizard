@@ -1,11 +1,13 @@
+A Dynamic network topology visualization application for complex multi-layer network topologies.
+
+Features : 
+
+1. Dynamic generation of network topology descriptions in standard topology schemas formats like NML, NMWG driven by the network topology visualizations created by the user.
+
+2. Two way binding tool which encompasses creation, management, visualization, description and translation of complex multi-layer network topologies.
 
 
-Dynamic generation of network topology visualizations driven by the topology schema(s) files provided by the user.
-
-Essentially an integrated two way binding tool which encompasses creation, management, visualization, description and translation of network topologies.
-
-
-Installation Steps for TopoWizard.
+Installation Steps for Topology Wizard.
 
 1. Set the environment variable TOPOWIZ_HOME to <topologywizard-deployment-path>/ topologywizard
 
