@@ -1,0 +1,14 @@
+Installation Steps for TopoWiz.
+
+1. Set the environment variable TOPOWIZ_HOME to <topologywizard-deployment-path>/ topologywizard
+
+2. Install MySql if not already installed.Next run the topowiz.sql script found within the scripts folder  
+
+3. Make sure the configuration specifed within the connectivity.properties file within the topologywizard/config points to the correct database.
+
+4. Now just run the TopoWiz.sh to start TopoWiz.  
+
+5. Topology Wizard is ready to use at  http://localhost:7000/html/src/topowiz/topoWiz.html 
+
+
+For any installation issues, suggestions,commments, bugs and further support please feel free to contact bharath@es.net | chin@es.net | Bharath.ramaprasad@lbl.gov | bharath.hr86@yahoo.com
