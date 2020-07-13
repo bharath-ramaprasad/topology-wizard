@@ -1,3 +1,10 @@
+
+
+Dynamic generation of network topology visualizations driven by the topology schema(s) files provided by the user.
+
+Essentially an integrated two way binding tool which encompasses creation, management, visualization, description and translation of network topologies.
+
+
 Installation Steps for TopoWizard.
 
 1. Set the environment variable TOPOWIZ_HOME to <topologywizard-deployment-path>/ topologywizard
